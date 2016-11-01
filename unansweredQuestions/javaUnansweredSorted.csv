@@ -1,0 +1,734 @@
+"ERRORCODE=-4461, SQLSTATE=42815 in DB2",29960
+"Active Directory Authentication using Spring Security 3.2, Spring Ldap 2.0 and JavaConfig",17970
+apache http client org.apache.http.NoHttpResponseException: The target server failed to respond,17918
+How can I get the correct url to the video file from an embedded video?,16300
+Appium Error : A new session could not be created. (Original error: Did not get session redirect from Chromedriver),16204
+java.security.AccessControlException: access denied (&quot;java.security.SecurityPermission&quot; &quot;authProvider.SunMSCAPI&quot;),14376
+How to use KSoap 2 in android,12126
+"How to Chart real time streaming data using AreaChart in JAVAFX 2 - Concurrency, Animation, Charting",11378
+Configuring SSL for Tomcat 7 leads to an ERR_SSL_VERSION_OR_CIPHER_MISMATCH error,10685
+How to Debug JUnit tests similar to a regular Java program within Eclipse,9681
+Basic histogram in JFreeChart,9579
+Drawing Filled Rectangle over a BufferedImage,9406
+c3p0 getConnection() throws exception: A ResourcePool could not acquire a resource from its primary factory or source,8818
+Send MMS from My application in android,8714
+Tomcat and OSGi,8551
+Execution failed for task :app:compileDebugJavaWithJavac,8325
+Android: java.lang.IllegalStateException: Already connected,8187
+Spring Boot and Security with custom AngularJS Login page,7859
+How do I include a packaged WSDL to use with Java classes generated with wsimport?,7545
+Setting time out in apache http client,7408
+Array with UserType in Hibernate and PostgreSQL --&gt; MappingException,7015
+I get &quot;Java HotSpot(TM) 64-Bit Server VM warning: Exception java.lang.OutOfMemoryError occurred dispatching signal SIGTERM to handler&quot; error in tomcat,6944
+wsimport Xauthfile error,6475
+Twain device (scanner) control in Java,6320
+JPA composite primary key with null value,6233
+Java Async Http clients comparisons,6121
+How to use ICU4J library,5821
+SOAP Encoding is not supported,5732
+JNLP with local codebase - how to update?,5517
+Encryption and Decryption with BouncyCastle PKCS7 - CMS in java,5323
+How Translate ByteCode to Machine Native Code,5309
+Eclipse and external src and web content folder linking or mapping,5278
+Making executable file in Selenium WebDriver with Java,5226
+"Android webview using GSAP: Attempt to remove non-JNI local reference, dumping thread",5112
+How to send text message in android via sip,4848
+QPID - Spring CachingConnectionFactory - Reconnect,4633
+How do I use Julian Day Numbers with the Java Calendar API?,4523
+Spring AspectJ fails when double-proxying interface: Could not generate CGLIB subclass of class,4269
+KnoxVpnUidStorageknoxVpnSupported API value returned is false,3913
+spring MockMvc testing for model attribute,3900
+Hibernate 4.3 + Tomcat 7 Unable to lookup JNDI name,3876
+Deep linking on Android doesn&#39;t launch application and redirects to Android play market place,3825
+"Android Webview, Setting Long Click enabled on links exclusively?",3824
+auto adjust text size to fit a button Android,3802
+VirtualBox: Using the SDK API to launch a program in the guest?,3790
+Difference between PKCS1-padding/RSA encryption ios objc and java,3773
+Checking if GPS is enabled in android,3716
+Failed to determine Hibernate PersistenceProvider,3705
+InvalidClassException: &lt;class&gt;; incompatible types for field &lt;fieldname&gt;,3682
+IntelliJ .proto support,3668
+Xlib: extension &quot;RANDR&quot; missing on display &quot;:99&quot;,3620
+WebSocket Error during Handshake Unexpected code 200,3548
+how to add sqljdbc_auth.dll to my maven project,3539
+Printing via cups using javax.print,3512
+Creating a multipart/form-data entity with Apache HTTP client,3449
+Resteasy Bean Validation Not Being Invoked,3421
+How to setup pre-authentication header-based authentication in Spring Boot?,3329
+How can I set up connection with DVR and decode the data?,3298
+Spring - ModelAttribute and parameter names,3098
+"Spring WS and JAXB - Configuring SOAPMessageDispatcher, DefaultMethodEndpointAdapter and MarshallingPayloadMethodProcessor",3059
+Hadoop 2.6 Connecting to ResourceManager at /0.0.0.0:8032,3034
+Spring unable to locate OSGi namespace handler,3005
+Change keystore and truststore at runtime,2993
+Samza/Kafka Failed to Update Metadata,2955
+Problem with running Maven GWT application in Eclipse,2836
+Crashlytics not finding API Key in crashlytics.properties at runtime,2790
+Where is Spring MVC context path set?,2774
+How does IntelliJ know if a directory is a &#39;source&#39; or a &#39;test source&#39;?,2770
+IntelliJ 14 + Lombok plugin + @Builder = error,2761
+"Is there a Hello World example for the Google Contacts API in Java, C#, Python or Ruby?",2749
+How to migrate a Hibernate NamingStrategy to (Implicit|Physical)NamingStrategy? Where is the documentation?,2712
+Android - send HDMI CEC commands to TV - minix - libCEC,2688
+Dynamically enable/disable he UNWRAP_ROOT_VALUE and WRAP_ROOT_VALUE in Jackson&#39;s ObjectMapper?,2685
+Android LockScreen,2685
+JSF custom component is not found,2678
+Spring boot 404 error custom error response ReST,2654
+How to debug MATLAB (java) error: timeout waiting for window to show up?,2585
+Hibernate projections with collections ArrayIndexOutOfBoundsException,2521
+AppBundle throws &quot;LSOpenURLsWithRole() failed with error -10810&quot; after compiling with java 7 or 8,2374
+java logging with log4j and log4j.yaml,2371
+Eclipse - find Java references from a project library,2313
+Jersey 2.0 Get Post Call via Proxy,2287
+Reducing size of JRE in JavaFx bundle,2262
+Apache Thrift Java-Javascript communication,2258
+How to get rid of WebKitFormBoundary in uploaded file,2245
+Facebook Graph API: get comments by given user,2233
+How do I do &quot;sub-categories&quot; in Preferences,2231
+Hadoop: binding multiple IP addresses to a cluster NameNode,2226
+What&#39;s the correct or proper way to specify XSD schemaLocation across projects?,2184
+Unexpected results implementing simple motion blur in Libgdx,2181
+how to change actionbarsherlock menu item font face when using custom theme for actionbar?,2145
+"NFC with NFC-Tools, Creating NDEF Application",2139
+How to programmatically find the external IP address of a device without using external host?,2124
+Excluding .class files from Gradle dependecy,2074
+Apache POI - Excel Write - Lock Single Cell,2074
+Spring ReloadableResourceBundleMessageSource VS ResourceBundleMessageSource,2069
+Unable to run threaded java jar file on Mac OS X 10.6.8 with Java 1.7.0.45 using pacifist,2029
+Apk Expansion Files - Application Licensing - Developer account - NOT_LICENSED response,2019
+error: only position independent executables (PIE) are supported,1991
+"How do I fix &quot;incompatible JNA native library&quot; when using Putty, Gradle, and the Gradle Git plugin?",1965
+overriding drawing order scene2D&#39;s stage,1959
+Android 4.4.2 SSL handshake aborted,1941
+How to train the stanford parser with Genia Corpus?,1936
+Periodically running a Callable via ScheduledExecutorService,1906
+Eclipse Maven Projects get rid of wb-resource warnings,1896
+Java kernel for Jupyter,1842
+Managing text in android applicaiton like in a eBook,1824
+How can I delegate JAAS authorization checks to Shiro?,1815
+Maven Multi Module Project Structuring Issues,1811
+Why does WatchService generate so many operations?,1802
+How to programmatically create and manage Google Forms via Google Document List API,1788
+How to use JarJar with Android to change package names of external jars?,1766
+Is Apache Kafka able to handle transactions?,1731
+Cross Field Validation with inline messaging in JSF with JSR 303,1724
+play framework use in memory h2 database for unit tests,1717
+Java 7 and JavaVM.framework on mac,1696
+OutOfOrderScannerNextException when filtering results in HBase,1696
+Reasons for high CPU usage in SocketInputStream.socketRead0(),1692
+Spark ML indexer cannot resolve DataFrame column name with dots?,1686
+How do you store a username/password in the Mac Keychain using Java?,1682
+Gestures not working when using DrawerLayout in Android app,1679
+HashedWheelTimer vs ScheduledThreadPoolExecutor for higher performance,1674
+Parameterized unit test suites,1662
+Strange error when execute httpclient,1639
+Fused Location Provider not getting location unless GPS is on,1638
+Eclipse Luna does not find references to Java elements,1636
+Standalone Java Implementation for extracting values in URI Template (RFC 6570)?,1630
+Bluetooth 4.0 (BLE) Java Library,1616
+"JDBC getUpdateCount is returning 0, but 1 row is updated, in SQL Server",1610
+Android youtube API play two or more Youtube players in one main activity,1607
+An internal error occurred during: &quot;Refreshing Process Information&quot;. java.lang.NullPointerException,1602
+How to implement consumer-producer with multiple consumers and multiple queues,1599
+Tomcat class loading order when serving modules without publishing,1581
+FileObserver does not work on external storage in Android 6.0 Marshmallow (API 23),1571
+NoOptions cannot be resolved to a type,1566
+AndroidAnnotations and Dagger,1552
+"android: start in symbol keyboard mode, but don&#39;t restrict to numbers-only input",1546
+How split large string in Intellij idea automatically?,1542
+Android document scanner using opencv,1540
+Getting Transport error in apache axis2 client,1539
+Cannot recover from org.omg.CORBA.TRANSIENT (becomes permanent),1522
+Android Bluetooth LE connection issue,1515
+Parallel test runner for play framework,1512
+How can I create an Apple Keynote Presentation from scratch?,1512
+JPA Hibernate - cascade delete in both database and annotation,1491
+Removing component from layout fails,1479
+intermittent ClassNotFoundException for JSP using eclipse,1473
+Buttons of alert dialog are cut off,1466
+AccountManagerFuture.getResult() results in &quot;Couldn&#39;t sign in&quot; screen,1461
+Getting Error in SOAP POST request using Apache CXF but curl works,1458
+Error: Execution failed for task &#39;:app:shrinkReleaseMultiDexComponents&#39;,1451
+How to register custom converters in spring boot?,1450
+Creating custom function in sqlite3 in android,1448
+EOFException in Retrofit while executing synchronous PUT requests,1434
+SelectorImpl is BLOCKED,1433
+Connection pool for dynamic database connections,1421
+USB bulkTransfer between Android tablet and camera,1414
+ViewRootImpl: ViewPostImeInputStage processPointer 0 on OnItemClick of Listview in android,1388
+Set the initial directory in SWT FileDialog,1357
+WebDriver getText throws exceptions,1349
+Ebean - Dynamic Query - Prepared Statement&#39;s Mismatched Parameter Count Error,1343
+Play a local m3u8 file on android showing setDataSourceFD failed.: status=0x80000000,1342
+TableLayout - Remove space between columns,1336
+Using Java to perform Zero Copy data transfers between two or more sockets,1329
+Android connect to server with selfsigned certificate,1316
+Android WebView 302 Redirect - Honeycomb,1314
+Adding programmatic annotations to a Java class,1293
+Injection of autowired dependencies failed with Qualifier,1286
+Support for X509PKIPathv1 in xws-security for Spring-WS,1280
+Why is my Tomcat-deployed web.xml not being read by the host server?,1279
+how to set ForeignKey name when I have @ManyToMany,1265
+Flexible Space in Android,1254
+Spring boot - sending emails with Logback,1250
+VPN packet bypass,1248
+How to update the version of child modules in Maven?,1238
+Strange behavior of toolbox compilation when referencing an inner static java class,1236
+Coverage view shows 0.0% in Intellij when using Jacoco,1231
+deserialize a json array using xstream,1211
+Facing issues while running remote java program through RSE pluggin in eclipse,1209
+Cannot load resources in Annotation Processor (Not on classpath),1205
+Android LVL Signature Verification Failed,1197
+The server rejected the connection: None of the protocols were accepted,1189
+activity to dispatch or redirect to other activities,1189
+JSF 2.0. Unable to get POST parameters and cookies in preRenderView event handler,1185
+Capturing sound from Wine with TargetDataLine,1183
+Installation failed on Android Gingerbread and Froyo - INSTALL_FAILED_DEXOPT,1181
+Using IPv6 in a real-world Java program,1176
+Run a process asynchronously and read from stdout and stderr,1158
+&lt;error-page&gt; setup doesn&#39;t work in Spring MVC,1149
+Authorized Flash Client to Java Server connection,1148
+IabHelper Android bug (NullPointerException) launchPurchaseFlow?,1137
+How can I run a test suite using gradle from the command line,1136
+Jackson Polymorphic Deserialization - Can you require the existence of a field instead of a specific value?,1103
+Gradle + Retrolambda: Fatal Error: Unable to find package java.lang in classpath or bootclasspath,1100
+How to dynamically turn on or off one appender of rootLogger in log4j2?,1099
+ActiveMQ failover transport - Why so many connections?,1099
+simple way to assign default value with xmlelement defaultvalue annotation,1093
+How to Integrate reCAPTCHA 2.0 in Android,1085
+Show in-call dialpad - Dial a number during call - DTMF,1082
+Android - releasing allocated memory AnimationDrawable is using up,1071
+Draft refuses handshake when using java-websocket library to connect to the coinbase exchange websocket stream,1070
+How to integrate Apache Spark with Spring MVC web application for interactive user sessions,1064
+I need log4j v4 equivalent of log4j v2 PropertyConfigurator.configure,1062
+Neo4j: How to open an existing database in neo4j using java api?,1060
+Why does dagger not fail at compile-time when a class in the injects clause cannot be injected?,1057
+H2 Cluster Setup,1043
+Draw curved custom object in LIBGDX?,1042
+Jsoup fetching a partial page,1041
+Android sending push notification through .net webservices,1040
+How to zoom Android TableLayout,1039
+Mac reports different versions of Java in command terminal and System Preferences,1038
+Saving child collections with OrmLite on Android with objects created from Jackson,1036
+How to import modules from SVN in AndroidStudio,1029
+Could not lock surface,1001
+JNI EnsureLocalCapacity -- WHY?,988
+Getting application instance in javafx,987
+Jenkins and JaCoCo with sbt,985
+Shiro LDAP Authorization config,984
+Autocomplete address with google map library in Primefaces,981
+HtmlUnit close all windows memory leak,979
+Store/Retrieve Json data to/from Mysql 5.7 database using hibernate,976
+Make sure photos are saved with the same orientation they were taken?,973
+Why does &quot;activator start&quot; fail with &quot;Bad application path&quot;?,962
+"How do you get the file on disk, and not just the file size in Java?",958
+WorldWind line of sight,953
+Keeping Java Bluetooth connection alive,947
+Add touch gestures to legacy swing application,946
+Enable hibernate filter globally with spring-boot &amp; spring-data,940
+Remove all listeners in Firebase java,935
+How can I view the Bean Graph for @Autowired beans in Spring STS?,922
+Android Proguard Issue - Still getting &quot;java.io.IOException: Can&#39;t process class...&quot; error when obfuscation is skipped,919
+java applet using Next-generation plug-in,917
+What is the structure/pattern for android/java to organise http web service calls in the project?,913
+Google App-Engine Datastore is extremely slow,913
+Java thread dump prio value doesn&#39;t correspond with real thread priority on linux?,909
+Updating a JOptionPane to reflect a component state change,906
+Jdk1.7.0_79.jdk and AppEngine: Class JavaLaunchHelper is implemented in both,898
+SoundCloud API: Getting the likes for a given user,895
+How do I script an undo operation in an Eclipse plug-in?,887
+IntelliJ IDEA can&#39;t resolve entity in spring data jpa @query annotation,886
+How do I add Selendroid to android studio for web scraping?,884
+HttpsUrlConnection (called via Jersey client) not calling createSocket of set SSLSocketFactory,871
+Java periodically hangs at futex and very low IO output,870
+AEM performance issues (slow memory leak) org.slf4j.helpers.BasicMarker and org.slf4j.helpers.BasicMarkerFactory,867
+How to get all different sizes of system icon of a file,862
+Mysql jconnector spends 50% time in com.myql.jdbc.utils.ReadAheadInputStream.fill(),857
+How to read shapes group as an image from Word document(.doc or .docx) using apachePOI?,849
+Put new component on JXTaskPane,830
+Bean and EBean conception Android Annotations,828
+How much memory does a Nashorn ScriptEngine use?,821
+dagger 2 circular dependancy,820
+Thread interrupt status getting cleared - possible Java bug,817
+How To Select literals in QueryDSL,813
+BIRT report with two or three-deep nested tables from POJO datasource,812
+Android Java JNI and C Char array Can&#39;t recognize the value,809
+Can&#39;t use some of L SDK features,808
+How does the dynamic tenuring threshold adjustment work in HotSpot JVM?,806
+How to calculate active user in Mobile App Analytics?,805
+Google Cloud messaging implementation in Java using MySql,803
+Seamlessly pass Arrays and Lists to and from Nashorn,798
+Memory leak in Scala and processes,792
+Spring Data Elasticsearch: Multiple Index with same Document,792
+How to avoid httpsURLConnection.getInputStream() in Android hanging if incorrect login credentials are provided?,792
+Automatic print is not working in Java,792
+Android File Upload set Content Type to Image,786
+How do I view the fxml using SceneBuilder?,784
+Eureka clients in docker container,783
+Android AnalogClock : setting drawables programmatically,779
+How to identify page breaks in a .docx document using Apache POI?,772
+JAXBException on creating JAXB Context,771
+JBOSS Login with Oracle DBMS: No matching username found in Principals,770
+Post form via ajax and get a form object in play framework java,768
+Zoomable JScrollPane - setViewPosition fails to update,759
+"Eclipse maven-enabled web app references workspace projects, but those are not deployed when running Tomcat server",753
+Android Studio: Text cursor disappears/gone after open some other class or pasting text in different classes,750
+jpa merge unmanaged entity,750
+VisualVM connect to local TomEE very slow and can not take a heap dump,748
+Simple HTML (or XML) to Android Native converter,746
+CSRF token in GET method,743
+jvisualvm: Software caused connection abort: socket write error,738
+Audio/Video Capture in PhoneGap/Cordova using external Java plugin,734
+Performance drop upgrading from Hazelcast 2.5 to 3+,723
+Spring MVC ignores configured PropertyEditor and uses constructor instead,721
+Eclipse QuickFix for multiple problems,719
+Spring Data Rest: Expose new endpoints for Repository that extends Revision Repository,719
+HttpURLConnection wire logging in Android,715
+PyCharm - Unable to save settings - Failed to save settings. Please restart PyCharm Community Edition,712
+Malformed reply from SOCKS server whereas I use a HTTP proxy (with Apache HTTP library),709
+Drag and drop with selenium webdriver on java,708
+spring-oauth2 login success handler,706
+Logcat error message - Attempted to destroy barrier with non zero count,703
+NullPointerException in HardwareRenderer,699
+AbstractAnnotationConfigDispatcherServletInitializer with Jetty,696
+set an image from gallery for background of desktop phone (android-java),694
+Multiple selectors in multiple threads,691
+IllegalArgumentException: Receiver not registered: com.google.android.gms.common.api,689
+Does not load JDBC Library on ARM by execute Java Applikation,688
+Java OCR isn&#39;t producing any output,688
+Mongodb authentication with trust mode fails in Java,688
+How can I get eclipse to wrap lines after a period instead of before,686
+Calling method with null parameters in EL ends up in 0 being passed instead of null,682
+INVALID_WSDL error when calling SOAP service,680
+Threads limit on android?,677
+Apache poi Style setting stops after a while,673
+"Android, onReceive in BroadCastReceiver is being called multiple times",672
+Warning: There is no class model available for code generation in Visual Paradigm,671
+"Java BufferedImage, writing to underlying Raster, pixels are appearing offset in the final image",671
+Java Game Hitbox Detection &amp; Rounded Corners,669
+HTTP Async Downloader with auto-resume on error,664
+Bluetooth socket freeze phone,663
+Javapoet/JavaWriter append to existing class,659
+Apply Matrix Transformations to BoundingBox,657
+How to use Spring Security&#39;s CSRF feature for stateless endpoints?,655
+JavaFX - How to create SnapShot/Screenshot of (invisble) WebView,650
+eclipse mars: rebuild index of maven central repository stuck,650
+Working with Java from Emacs within Leiningen project,648
+"Android app doesn&#39;t crash, but not responding on uncaught exceptions",644
+How to register Custom HTML Element as widget in GWT,637
+Use 4.0 version of httpclient,633
+Dynamic List in JasperReports 3.6 with JavaBean datasource,630
+Java Blocking List Implementation,630
+VerifyError Illegal use of nonvirtual function call on Lambda expression in Java 8,629
+How to get the full StackTrace when using SuperDevMode in GWT 2.7?,622
+"Clean code, stateless session beans and private state",620
+Spring MVC controller doesn&#39;t return immediately when calling @Async method,618
+How to avoid code duplication using JAXB with container-like elements with a similar structure,602
+How can I properly shutdown a JAX-WS Spring application on Tomcat?,599
+Spring Security 3.1.3 request querystring stripped,599
+Possible Memory leak through FinalizerReference,598
+asynchronous http request handling with tomcat and spring,592
+Shrink Debug Multi Dex Component; Cannot Read dir/allclasses.jar,589
+How to encode media file in RTP packets with Xuggler,588
+How to detect the ‘Save as PDF…’ was picked from an AWT PrinterJob on OS X,586
+"SSL connection failing with no Certificate Request from the server, connecting to Nginx on AWS from a local Websphere AS running on Java 6",585
+Submitting a form using html unit,583
+Why does Eclipse&#39;s expression view fail on some classes?,580
+Client ECC SSL Certificate contains &quot;unknown named curve&quot;,576
+Documenting a wrapped REST response using swagger UI,576
+Smack 4.1 Re-connection issue,575
+Send media action on android,575
+Custom exception wrong inheritance,574
+How to log JSON deserialization in Jackson,572
+Incorrect String value without &quot;?characterEncoding=UTF-8&quot;,562
+Login/Logout issue with Play Framework?,560
+Spring StoredProcedure with Oracle array : ORA-01000: maximum open cursors exceeded,560
+"NoClassDefFoundError at runtime but class is in classes.dex, what givies?",558
+JavaFx SceneBuilder 2.0 not resolving custom controls,554
+Google Cloud Endpoints Security (OAuth2) and custom User schema,551
+How to log to a memory buffer and flush the buffer to the disk manually?,550
+How to obtain the right JavaFileManager in a Java annotation processor?,549
+How to add a custom mime type to tika and override a default extension pattern?,547
+CrossWalk Webview not launching URL,546
+Android set() and setExact() alarms firing at incorrect intervals,545
+How do I figure out longitude and latitude coordinates to create a 1 mile radius around a user&#39;s location?,541
+spring security oauth2 (2.0.8) getting Invalid access token used InMemory tokenstore,541
+Does java.util.concurrent.Delayed really force me to violate equals/compareTo consistency?,536
+Spring Data Query Method with Optional @Param,536
+How to resize page to fit drawing contents in Open office/Libre Office Draw,528
+Play Framework: Mixing Java and Scala controller/views,527
+@RabbitListener method testing in SpringBoot app,525
+Spring Batch commit-interval configuration not working,519
+"With eclipse, how to hide superclasses methods in Content Assist?",518
+Custom Lint Rule not listed in eclipse / android studio,514
+Why does SSLSocketFactory lack setEnabledCipherSuites?,512
+How to consume WCF Stream service in Java client?,511
+Does passing a context from an Activity to a static class hold that Activity forever? Memory leak?,510
+Conflict with android package - Amazon SNS,508
+Selenium Hub incorrectly believes CLIENT_STOPPED_SESSION has happened,508
+How to prevent new line in StyledText after Enter pressed,507
+How to use private keys from Android storage,505
+Nullpointerexception when I check for running service in Roboelectric test,505
+Convert HTML page containing Arabic characters to PDF using FlyingSaucer,504
+Unable to call member function of C++ from java using JNI,502
+Sentry raven-java user context,501
+PDF Cell Vertical Alignment with com.lowagie.text,501
+Performance degradation after moving to jersey 2,498
+Alternatives to DDLUtils from apache,497
+Is the JPA @Embedded annotation mandatory?,497
+How does wait / notify work at the JVM level?,497
+"Why is NetBeans running my program on OS X, but not building it into a JAR?",495
+Intellij IDEA: No beans of &#39;JdbcTemplate&#39; type found,494
+Can Intellij display package tests separately while in package view?,487
+Using Spring Dynamic Languages Support from Groovy Configuration,484
+Multithread execution on Spring 4 using Reactor 2.0,483
+Robolectric: run looper of handler in my case,480
+Java HashMap.get(Object) infinite loop,479
+Supporting dynamic and translated titles in Apache Tiles,475
+How to configure custom ehcaches in Play framework?,473
+JavaFx WebView cache,472
+POST data to database with Retrofit,470
+jitsi-android unable to compile and build,469
+SSO for Facebook integration,468
+Android BigInteger ArithmeticException,465
+OptimisticLockException in pessimistic locking,463
+JMS and Spring batch,459
+what makes a variable be visible (intellij idea),458
+"Jitsi - Playing a WAV file during call - If possible, mix with audio",456
+How to modify web environment entry in GlassFish 4,455
+camel ftp seems hang forever,453
+Hive UDF that use Hive table,452
+request-response synchronization/matching in nio context,440
+Android Web-view file-chooser after selection nothing happens,439
+How can I work out if Itunes:Keep iTunes Folder Organized is set programmatically on Windows,439
+Unsatisfied Link Error when initializing Myo hub on Android,438
+Disabling Spring Security headers does not work,438
+Does PDFBox Support Spot Colors and Separations?,436
+Why doesn&#39;t dtruss show me the select system call in this JNI code?,432
+Intermittent 102 Error (ERR_CONNECTION_REFUSED) when connecting to JIRA,431
+Eclipse uses old PATH variable to execute command line process in Gradle Task?,429
+Stacktrace does not print in Glassfish 4.1 Cluster log,429
+GWT TypeOracle.getTypes does not return all types,428
+use endorsed standard override mechanism for xerces in GlassFish 4.0,424
+How to validate JPQL (JPA query) programmatically,421
+WildFly 9.0.1 WFLYCTL0158 Handler &quot;CONSOLE&quot; is not found,418
+@CompoundIndex not working in Spring Data MongoDB,417
+Java generic method type argument,416
+getMetaData() throws internal NullPointerException,413
+ListView headers without list item separators,409
+Repackaging .jar-s in Android .aar library,408
+Strange behavior in do/while statement on Galaxy S5 and Android 5.1.1,407
+Spring boot + jpa lazy fetch,405
+How to convert Java Swagger Annotation to Swagger json schema?,404
+Hibernate @MapKeyColumn and table inheritance causing Unknown column type exception,404
+Android: How to improve the numbers within the image retreived by tesseract ocr?,403
+Passing JSON to WebService,403
+Jenkins: SonarQube link missing from job page&#39;s side bar,401
+Mutation not killed when it should be with a method with an auto-injected field,400
+How to write a FileTypeDetector for zip archives?,399
+Jackson can&#39;t deserialize to a ForeignCollection (Ormlite),385
+Using JRuby to directly call Android Java Methods,385
+Getting error: &quot;bad read of inttemp!&quot; when training a new font in Tesseract 2,385
+Java Class.isAssignableFrom ALWAYS returning false... only outside IDE,380
+Why does Hibernate sometimes load instances of an incorrect subclass?,380
+Sqlite Database - How to save Image taken from camera intent as well as hashmap to sqlite to retrieve later?,379
+Play Java 2.3.8 deduplicate on sbt-assembly,378
+Merge two avro schemas programatically,377
+Not able to record call using MediaRecorder,377
+GWT Editor Framework for polymorphic types,374
+How to generate specific Ids for usb port in java?,372
+The printed PDF file is different form the original PDF file,369
+@Transactional in super classes not weaved when using load time weaving,369
+Use ColorMatrix or HexColor in BlendModeFilter - Android?,368
+Android: variable has incorrect value in while loop,363
+Change Google Place Picker Appbar Text Color,362
+Loading every class in a package,356
+"Spring security does not allow users to sign in, it does not show any errors",354
+how to implement non-linear data structure like tree in android,351
+Swing text API: Override LabelView with different string length?,350
+How to manually install java libs and keep /tmp as noexec?,350
+"Intellij java class diagram, arrows between classes",349
+QueryException: ResultTransformer is not allowed for &#39;select new&#39; queries,349
+"Using the button tag, can I customize the button?",348
+Why does JavaFx PasswordField return it contents as a String?,348
+System.out.println prints out of order in Play Framework console,347
+Making a java applet meet high security standards,346
+Fast screen capture Java,345
+How to draw inner stroke with Java2D,343
+startForeground causing problems with cordova,340
+"In wildlfy9, how to make stateful ejb session replication with two node in standalone mode(Clustering)",340
+Steps to make an existing JNDI service as HA?,339
+Test GWT SimplePager ImageButton enabled state in Selenium,337
+Solr suggester throws stackoverflow error,334
+Use Twirl with Spring MVC,333
+Get Request Parameters from XML using WebFilter,331
+Android Strings issue,331
+WebRTC connection fails on Cellular Data,330
+"Fixed Thread Pool threads blocking, when enough tasks submitted",329
+Spring MVC annotation based Configuration for multimodule project,328
+Why is GetServerAuthCodeResult Deprecated? How can I do something equivalent in an Installed Application?,328
+How to internationalize a Hibernate entity,328
+How to analyze actual memory usage on App Engine Java?,327
+"JUnit integration test across GWT &amp; Appengine devmodes, with RESTEasy",324
+Getting rid of Dagger 2 warning &quot;Generating a MembersInjector&quot;,323
+JavaFX : Embedding a browser other than available webview with JavaFX,318
+How build multiple projects with gradle with multiple jdk versions?,317
+Eclipse content assist validation key,315
+change the content of debug view in eclipse,313
+Java leaks memory out of heap when releasing threads,308
+Apple receipt validation using Scala/Java,302
+Save null Values in Cassandra using DataStax Spark Connector,302
+Javadoc Exclude causing errors on import,300
+How to interpret G1 GC logs leading up to an OutOfMemoryError?,299
+SSLSocket hangs at getInputStream when android device is in wifi,298
+Exporting xlsx using apache poi 3.13 on weblogic : File format or extension not valid,295
+PreparedStatement.getParameterMetaData() throws ArrayIndexOutOfBoundsException when having comment and parameter within sql-string,295
+Android AppWidget&#39;s button click event not received after home launcher force stop,292
+example retrieving redis values as stream in java,291
+How to implement i18n(Subdirectories with gTLDs) in Spring Framework?,291
+Hibernate does wrong insertion order for child entities with composite keys,290
+Deep recursive objects comparison (once again),290
+HIbernate not fetching value where the field is null in database record,287
+How to wait till a TCP port is really (natively) closed in Java?,287
+Volley NoConnectionError : tlsv1 alert inappropriate fallback,287
+Initialising the TextToSpeech object on a worker thread,282
+@ApiMethod&#39;s complex path routing,280
+"New Google Play Services API, Holding connection through activities",279
+Convert C.jstring to native string in Go,278
+Build variants (product flavours) in intellij java application,277
+Cobertura : how to cover spring-data @Repository interfaces,276
+Spring MVC Path matching ignoring double slash //,276
+Why are HotSpots compilation log times different to ManagementFactory.getRuntimeMXBean().getUptime()?,276
+WorldWind color at pick point,274
+Button not working for AlexKolpa/fab-toolbar,274
+"Play application dies in idle state, restart on new request?",274
+Configure Swagger javax validation Constraints on DTOs,274
+replace() doesn&#39;t work properly with multi-fragments,273
+"Android Jack: Lambda coming from jar file need their interfaces on the classpath to be compiled, unknown interfaces are java.util.function.Consumer",273
+Android - Is it ok to put @IntDef values inside @interface?,272
+Removing contour using Marvin Framework in Java,272
+SWT Browser focus on next and previous highlight text,270
+Print Decoded Data after SSLEngine Handshake is FINISHED,268
+Restlet path param does not work,267
+Java- Getting Json by parts,266
+Docker communication between two container with Java,263
+Open paradox / borland database as single file,263
+Java - java.lang.ClassCastException: interface akka.actor.Scheduler is not assignable from class akka.actor.LightArrayRevolverScheduler,262
+Intercept transaction only when is sure to be committed but before is commited,259
+getPrimaryClip() returns ClipData { text/plain {NULL} },258
+RythmEngine and TemplateClassManager the Biggest Objects of the heap : memory leak problems,258
+How do I map a function call from c++ to Java using JavaCpp?,258
+Illegal State exception mongo-hadoop and spark,258
+Can I change disabledAlgorithms for a JWS application?,257
+(Java) exiting a loop &quot;remotely&quot;,257
+Migrating from Neo4J to DataStax Graph DB (DSE),257
+Performance deviation for a small method,253
+ZCA Whitening with opencv and java,249
+Unit test with testNG in spring boot takes time to build project,248
+Driving Style Detection using Smartphone Sensors,248
+"Recursion: how to try different combinations of integers 1 to 9, and (partially) reverse sequence to start over in case of error?",247
+How to intercept and authorize user input with a server,247
+how to show location pin of the visible portion of a mapview in android?,247
+How can I monitor/sample output audio in Java or C?,246
+Inferred type issue with Java 1.8.0_65,245
+How append new Document in complicated Collection-Object using Java and MongoDB?,245
+Trying to test SQLiteOpenHelper but getWritableDatabase() throws Null,245
+Is there any way to build a path gradient in JavaFX?,244
+Android: Error while using bitmap to display image using android studio,244
+Dagger 2 trouble @Inject-ing FirebaseMessagingService,243
+Eclipse - break on user code when unhandled exception is raised on Android App,242
+Java 8 graphics glitch when stroking sub-pixel coordinates on Linux,241
+Fix for 3D camera to move in the direction it&#39;s facing?,241
+CDI can&#39;t set @Singleton into @Provider in @Requestscoped REST service after redeploy on WildFly,239
+JavaFX Fatal error JRE (Oracle Java 8 update 91),236
+Jetty: Redirect HTTP to HTTPS for static content,235
+The requested resource is not available for servlet 3.0 and tomcat 7.0,235
+logback with play framework,234
+When does a Windows client use Initiator preferred NegoEx for SPNEGO?,233
+How to apply *.cube Lut in android bitmaps?,233
+How do you run a Gradle task after IntelliJ imports a project from Gradle?,233
+How to write only once to file from a thread?,232
+Elevated priviledges on android app,231
+Saved bitmap in android is 3 bytes long when read,230
+Abstract callback in reflection method of java,228
+How to run a multiple module project using Maven on NetBeans,227
+Spring security shows &#39;Your login attempt was not successful due to&#39; for custom membership,225
+How should a custom Guice scope be integrated with TestNG?,225
+Raspberry Pi 2 - Distortion while moving objects in Portrait mode,225
+Avoiding generic types of form Foo&lt;ActualType extends Foo&lt;ActualType&gt;&gt;,222
+"Hibernate tool, auto cascade all",222
+Switch to different XSLT Processor in ColdFusion,221
+How to show scala doc from Java Editor in Eclipse?,219
+Tag &lt;uses-permission&gt; attribute name has invalid character &#39; &#39;,218
+How to use MongoDB with ColdFusion,215
+Safely Wrapping a Connection Pool,215
+jline2 print &quot;^J&quot; when it should print &quot;\n&quot; on a telnet console,215
+Force stop a blocking read AsyncTask,211
+adb touchscreen swipe fail in a call,211
+Hibernate @SQLDelete sql not adding schema,210
+Updating UI contributions on Handler switch in e4 application model,209
+RDP through Bluetooth,207
+Axis2 1.4 Client Side Concurrency Issue (Re-Using Stub),207
+Unable to get Location in Genymotion VM,206
+"Spring, Java : Avoiding creating duplicates for TImeline functionality",205
+Guava TypeToken in scala,204
+UnsupportedNodeException: Request for a node that is not part of the specified profile and components for this stream: viewpoint,204
+StoredProcedureCall 1x Varchar output 1x Cursor output,204
+Java Multithreading for IVRS with GSM Modem rxtx (playing voice file making event listner stop working),203
+&quot;Property not found on type&quot; when using interface default methods in JSP EL,203
+Vertica VerticaDayTimeInterval precision is stored wrongly,201
+Submitting scores to Google Play Games leaderboards and displaying new rank(s),200
+Oracle Database 12c: How to also get the result index from a contains search,198
+How does ExtendedTableDataModel reset method work? Is there documentation?,198
+Can JMockit MockUp mock toString()?,198
+Protecting PDF&#39;s,198
+How to manage Java memory when using recursion to step through a large directory structure,195
+Android Studio Design Tab Grayed Out,195
+@OneToMany with @JoinTable error,195
+How to read data from a specific version of Google Sheet?,194
+Vector vs SynchronizedList performance,194
+smb authentication (74 bytes vs 24?),192
+Camel blueprint sql transaction manager,191
+Proper way to extend ParseObject and have a generic query factory,191
+JavaFX Tableview and ScrollPane scroll issue,191
+How to Unit Test static resources served by Spring ResourceHandlerRegistry,190
+How to obtain the bounds of the axis box in a JFrame?,189
+Symbol Directed Graph using data from text file,189
+Decoding Airplay Packets in Java or C/C++ on Android,189
+How can I map the following elements of a C Structure to Java?,189
+How to monitor &amp; record build (compile/test) time?,189
+String.replace not Working,188
+Using org.slf4j.MDC with Netty channels?,188
+How to update ProgressBar in TableViewer?,187
+AppEngine Java Google+ Signin missing gplus_id,187
+Why does Intent implement Cloneable?,186
+How to define Method signature when passing a Function in Java - JUNIT with Hamcrest Fails,184
+"Spring Hateoas, PathVariable and SaxSerialization",183
+Saving ManyToMany with @ChangeTracking relation throws PersistenceException,183
+Implementation of quicksort seems to be taking more time than Mergesort,182
+React Native and Twilio on Android,182
+Unmapping or &#39;release&#39; a MappedByteBuffer under Android,182
+Convert String to its Unicode code point,181
+Swing JButton is not rendering properly on Solaris with Java 8,181
+Using BottomBar prevents fragments from opening?,181
+"Java type variance, consumer of generic type",179
+Does OpenStreetMap has Point(Source) to Point(Destination) direction uri to use in Android?,179
+How to write integration tests with spring-cloud-netflix and feign,177
+Spring jdbcTemaplate how to send complete batch size to DB2 server in one shot?,174
+Floating Action Button Scroll weird behavior,173
+LibGDX BoundingBox + pickRay issue,172
+Use Java 7 to compile my project but use Java 8 to run my tests in Gradle,172
+XML bindings generation file does not compile,172
+Android PackageStats gives negative Values,172
+Print Specific nodes at a every level calculated by a given function,171
+Spring batch skips records,170
+Secondary Sort in Hadoop,170
+Subtract Blend Mode using ColorMatrixFilter in Android?,169
+Jira OAuth - Unable to create application link,167
+JavaFX scrolling table update performance degrades over time,166
+Wildfly 9.x fails encoding greek attachment filenames,164
+How to make Eclipse recognize folders as &quot;code folders&quot; when a project is imported?,164
+GtkLookAndFeel fatal crash on Oracle Jre,160
+Listing all classes the java compiler needs during compilation,159
+Strange behavior in Nebula CDateTime,158
+Not introducing CDATA with just one value,156
+Icon with TexturePaint throws InternalError: Surface not cachable,156
+Using GWT Editor Framework with CellList,155
+Java API for composing regular expressions,154
+JavaFx view pdf in Popup without using JxBrowser Plugin,154
+Find Android users in your contact list,153
+All Site Permissions for jnlp web start file for Mac Yosemite,151
+JavaFX MenuItem can&#39;t be canceled by moving the mouse away,151
+Cache interceptor call is ignored,149
+How to handle changes from MediaSession remote volume overlay?,149
+Does the behaviour of the Java garbage collector evolve over time or get impacted by JIT?,148
+Java 9 HttpClient with sendAsyncMulti / multiResponseAsync,148
+Rancher template - Hadoop Illegal character in host-name,148
+Reserve internal storage of Android device for future application critical logs,147
+how to configure apache chainsaw for input from multiple devices,146
+getResource() of ClassLoader returns null when single quote in path,146
+Skobbler callout tail imageview displayed incorrectly Android SDK 2.5.1,146
+Save java.awt.Image to disk in java,146
+Java - jboss-deployment-structure.xml add JAXP exclusion,144
+How to use jXDatePicker with maskFormatter?,143
+How do I separate the metadata and the track from a shoutcast stream without making separate request for metadata and the streaming,143
+Injecting Pressure values in Windows,142
+"How to detect if it is Recents button, Multi Window mode or home button onUserLeaveHint()",142
+Why is request.getRemoteUser() returning the tomcat windows service account sometimes,141
+How to binary-search on one field of a List&#39;s elements,141
+Guaranteed delivery of multiple messages to Kafka cluster,139
+"Searching a grid of points, visting each point once only",139
+How do I list all licenses used in a maven project?,138
+Java inter-process communication in year 2015 (with no boiler-plate)?,138
+Accessing accelerometer from jni,138
+java random string generation and birthday paradox,138
+JRuby gemspec local jar dependencies,137
+"Lazy loading children, that have eager collections inside",136
+"How to retrieve common values (IpAddress, TenantId) in GenericDao?",136
+Remove activity from apk via Proguard,135
+Retrofit JSON deserializing object&#39;s $ref reference to its original copy,134
+Apps from Recent Apps back out to stock launcher instead of custom launcher,134
+Jsoups run incorrectly on Google App Engine,132
+Sybase throws Exception &quot;there is already another cursor with the name XXX&quot; when Executing SELECT Query in multi-threading environment,132
+@PicketLink annotated class is not used in identity.login(),132
+Remove xsi:type information from xml/json JAXB?,131
+Gradle equivalent of Maven Shade plugin failure,129
+PHP: &#39;java&#39; is not recognized as an internal or external command,126
+Testing with Dagger 2 using separate component configurations in Android,125
+Auto Suggestion not working in Lucene after first search iteration,123
+Why does matlabcontrol interrupt calling thread upon proxy create?,123
+How keep intellij idea index between restarts?,121
+Reading alt code JTextArea,121
+Intent not received from Android Geofence event,120
+BHSM-Servlet does not let browser cache username,118
+Finalized is holding lot of memory 2.5 gig out of 4 g,114
+Disconnecting from a weblogic JMS,113
+Spring DeferredResult onCompletion not called from test cases,113
+Checkbox selection in primefaces tree table not working,112
+How to find whats in the inputstream?,108
+Edit MS Lync conversation chat in java,107
+Key stores from websphere,107
+Struts 1.2.9 - Questions around custom internationalization,107
+Ambiguious reference with generic types when using JDK 1.8,106
+ActiveMQ JMS Durable Topic in a Network of Brokers,106
+Logo on every JavaDoc page,105
+Java Better alignment of fields declarations using Eclipse,105
+Hbase Pseudo distributed mode not run in localhost,105
+SwingController get page coordinate,105
+AudioManager.adjustStreamVolume no longer functioning on 6+ devices,105
+Implementing interface comparators,105
+JAX-WS slow on AppEngine,104
+Managing many clients with the same java projects with small changes,100
+Alert Message is not Displaying Properly,99
+Error While Generating Access Token For Shopify App,98
+Proguard removes Anonymous class in Anonymous class in Java,97
+Grails reloading file watcher error,97
+Scroll to / set position of custom list preference,95
+CQEngine Optimize for Small DataSets,95
+"on android unit testing, when to use test cases?",94
+Conditional won&#39;t trigger when given a 75: android,93
+java.lang.IllegalArgumentException: Unable to PTableType enum for value of &#39;MATERIALIZED VIEW&#39; Exception with Phoenix and Hbase,93
+How to set a color filter for XWalkView? (Resolved),92
+Bug in OS X with JFileChooser UI (?),92
+Expression Language evaluated in Apache Web Server,92
+How can I request a specific connection from com.mchange.v2.c3p0.ComboPooledDataSource?,92
+Apache Ivy. Transitive dependencies not retrieved,91
+Android MIDI Threading InteruptedException - Aftertouch Messages,91
+Hibernate : Splitting table automatically every month,90
+Differences in protected inner class visibility across packages in different versions of Android,90
+Gradle building takes forever after upgrading to Java 8,90
+recording flv broken red5,89
+Run unit tests on Save with Android Studio,84
+Reading method invocation arguments using ASM,84
+Defining abstract generic class with List&lt;?&gt; members,84
+Is Java&#39;s checked exception handling broken?,83
+Why does Restlet on GAE says Component is NULL,82
+Unable to create nested object from three level mappings in Scala,82
+SpringMVC - Error while sending a list of object as parameters with generic support,81
+Can I save Eclipse files from a gradle tasks?,79
+Java &amp; Spring Bean: Create a bean with multiple Generic Types,77
+Want to find the Focal length first then distance of face detected in real time using opencv android,76
+How can i get the cacheManager from shiro framework in any part of application,71
+how to load balance jboss4.2.2AS on amazon ec2 with distributed caching,63
+TableauSDK proxy settings,58
+How to Add KmlLayer to M4B Google Map For Business?,52

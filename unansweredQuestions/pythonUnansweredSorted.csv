@@ -1,0 +1,376 @@
+apache2 and mod wsgi : Target WSGI script cannot be loaded as Python module,14389
+"numpy array 1.9.2 getting ValueError: could not broadcast input array from shape (4,2) into shape (4)",8863
+python-config missing,7386
+How to get current URL in jinja2/flask (request.url not working),7234
+Installing a python/sphinx environment on windows?,6903
+kafka-server-stop.sh not working when Kafka started from Python script,6855
+reading and writing from hive tables with spark after aggregation,6107
+hdf5 / h5py ImportError: libhdf5.so.7,5874
+Connect to SQL Server instance using pymssql on Windows,5861
+Flask static file Cache-Control,5527
+How do I create my own haar cascade and apply it?,4680
+PyCharm 3.0 fails to find PyQt5,3817
+Cross Compiling Python Extensions,3763
+Error while importing Tensorflow in python2.7 in Red Hat release 6.6. &#39;GLIBC_2.17 not found&#39;,3336
+sys.path different in Jupyter and Python - how to import own modules in Jupyter?,3312
+Install Scipy with MKL through PIP,3207
+How to install numpy for PyPy on Windows?,3184
+Confused about the package_dir and packages settings in setup.py,3084
+"How to install python-gtk2, python-webkit and python-jswebkit on OSX",2890
+"Python logging to multiple handlers, at different log levels?",2870
+Distributed Celery scheduler,2842
+Django NodeNotFoundError during migration,2829
+Minimal surface solution in Python,2722
+Boto - How to delete a record set from route53 -Tried to delete resource record set  but it was not found,2722
+Ideal Chunk Size for python requests,2703
+How does paramiko Channel.recv() exactly work?,2638
+Predicting next word using the language model tensorflow example,2404
+Selenium-Phantomjs download csv,2395
+Flask App: Update progress bar while function runs,2386
+Unable to import numpy: Error: /usr/lib/liblapack.so.3: undefined symbol: gotoblas,2356
+"pip broken, reinstall doesn&#39;t work. EC2",2239
+Django ORM - mock values().filter() chain,2165
+Communicate between iOS app and Raspberry Pi via Bluetooth,2144
+manage.py not present in Django project,2077
+Internal Server Error with Django and uWSGI 2 Emperor mode,2060
+adding words to stop_words list in TfidfVectorizer in sklearn,2031
+`pip help install` raise UnicodeDecodeError,1984
+Extract images from PDF using python PyPDF2,1902
+Pandas update sql,1890
+Retry on deadlock for MySQL / SQLAlchemy,1846
+Upgrade to PyMongo 3.0 Resulting in ServerSelectionTimeoutError,1831
+How to connect to https site with Scrapy via Polipo over TOR?,1822
+How to get centroids from SciPy&#39;s hierarchical agglomerative clustering?,1802
+Reading a large table with millions of rows from Oracle and writing to HDF5,1768
+Problems when using dict comprehensions. NameError: global name is not defined,1760
+How to use authenticated proxy in selenium chromedriver?,1749
+The correct bone data to export from blender to view in ogl?,1732
+Resource corpora/wordnet not found (running quepy dbpedia example app),1705
+PyCharm unable to connect to GhostDriver,1703
+scikit-learn undersampling of unbalanced data for crossvalidation,1657
+Does django-rest-swagger not work well with modelserializers?,1565
+android python full integration,1560
+Avoiding ChunkedEncodingError for an empty chunk with Requests 2.3.0,1531
+Python - SQLAlchemy - MySQL - multiple instances work on same data,1506
+Building OpenCV_Python in Mac OS X 10.9 using homebrew,1505
+Forward a port via UPnP in Python,1504
+Django &amp; Redis: How do I properly use connection pooling?,1491
+Python readline module prints escape character during import,1471
+Python Statsmodel ARIMA start [stationarity],1459
+Google API quickstart.py error KeyError: &#39;_module&#39;,1459
+Python HTTP client with request pipelining,1438
+Unable to use None (NULL) values in python mysql.connector in prepared INSERT statement,1436
+pandas DataFrame.to_sql() function if_exists parameter not working,1436
+Alembic support for multiple Postgres schemas,1419
+How can Python nosetests (version 1.1.2) be set to show logging output?,1409
+Debugging Python ctypes segmentation fault,1401
+How to upload small files to Amazon S3 efficiently in Python,1369
+Streaming data for pandas df,1366
+"Specifying targets for intersphinx links to numpy, scipy, and matplotlib",1360
+Canonical way to do bulk create in django-rest-framework 3.x?,1356
+Vim: How to indent to an open paren or bracket when hitting enter?,1332
+How to use pip to install packages using MinGW-w64 compiler on Windows 7?,1319
+configure returned code 256 - python setup.py egg_info failed with error code 1 in /tmp/pip_build_root/lxml,1293
+RabbitMQ IOError: Socket closed,1289
+the filter of sniff function in scapy does not work properly,1287
+Dynamically setting Flask-SQLAlchemy database connection in multi-tenant app,1286
+PyCharm: How can I use breakpoints in multithreaded code?,1264
+Py2exe complains about missing dll when I have them?,1258
+Spark MLlib - trainImplicit warning,1243
+Alter Primary Key in Alembic?,1238
+RabbitMQ non-blocking consumer,1211
+OS X cmake can&#39;t find PythonLibs 3.4,1208
+Plot dendrogram using sklearn.AgglomerativeClustering,1200
+Heroku / gunicorn / flask app says &quot;Connection in use&quot;,1194
+Simple Python implementation of collaborative topic modeling?,1170
+urllib2.URLError: handshake failure,1169
+Calling python module from Java,1156
+How to retrieve all post comments/likes via Facebook OpenGraph,1097
+Disabling Javascript after page has been rendered in Selenium Webdriver,1087
+Copy Android MTP files using linux terminal or python; error Operation not supported,1086
+Celery autoreload not working,1085
+libvlc and dbus interface,1061
+Heroku Python binary library dependency,1059
+IntelliJ-IDEA&#39;s Python type checker - incorrect expected type?,1021
+Pylint: overriding max-line-length in individual file,1018
+Apache says Error opening file for reading: Permission Denied,1007
+Matplotlib date ticker - exceeds Locator.MAXTICKS error for no apparent reason,1003
+Is it possible to set the marker edge alpha in Matplotlib?,984
+How to send and receive some data via a GSM modem during an active call (Python and AT Command),983
+Cannot get logging work for Flask with gunicorn daemon mode,972
+How to stop the reactor while several scrapy spiders are running in the same process,964
+finite field arithmetic over GF(2^n)?,949
+"gevent.http.HTTPServer API suggests streaming, but instead buffers entire requests and responses",932
+"Django-debug-toolbar-line-profiler shows only a single line of output, no content",929
+How to get Aquamacs to run code in ipython,918
+uWSGI / Flask / Python logs stop after some time,911
+How to convert in OpenERP from one chart of account to another?,905
+Converting a numpy array of dtype objects to dtype complex,898
+django rest framework nested modelserializer,898
+Using setup.py to install python project as a systemd service,896
+How to execute a shell command to populate a Jenkins Dynamic Choice Parameter Plugin,891
+Random Forest Classifier Segmentation Fault,890
+SQLAlchemy logging of changes with date and user,889
+Interpolation and Extrapolation of Randomly Scattered data to Uniform Grid in 3D,883
+How to catch `CParserError` when reading a CSV file,876
+"Python: Replace typographical quotes, dashes, etc. with their ascii counterparts",860
+Getting setuptools/easy_install to play nicely with PYTHONPATH,848
+tox uses wrong version of pip when multiple versions of python are installed,829
+"Why is the GHC test suite written in Python, not Haskell?",822
+Google OAuth API - Python client import error,821
+Looking for a better strategy for an SQLAlchemy bulk upsert,814
+How do I configure spacemacs for python 3?,807
+Python gzip: OverflowError size does not fit in an int,800
+Odoo. Best way to support/synchronize db,794
+Correctly Scraping and Displaying Japanese Characters using Python Django BeautifulSoup and Curl,787
+pip install private package,787
+pyInstaller changing dll and pyd output location,784
+Is Twisted&#39;s Deferred the same as a Promise in JavaScript?,782
+bokeh with IPython Notebook widget: extra figures apppearing,781
+WebSocket closes after 1000 messages,770
+pycharm code autocomplete does not work for python console with ipython,763
+Tornado with ThreadPoolExecutor,753
+"fail2ban performance considerations regarding log size, complexity, and finditme settings",747
+Splines in pythonOCC,736
+Changing DNS settings using PyObjC,728
+python cx_oracle and server information,678
+How can I make setup tools install a github forked PyPI package?,678
+Should I configure Beaker&#39;s `session.lock_dir` when using Memcache on Heroku?,667
+When I type non-ASCII characters using a Windows keyboard I get &quot;?&quot;,662
+Python PIL: Blend transparent image onto another,660
+Deploying Python on Elastic Beanstalk with different configurations for different environments,653
+Python import paramiko error &quot; cannot import name util&quot;,651
+NLTK - Multi-labeled Classification,648
+"Python pygame error : Failed loading libpng.dylib: dlopen(libpng.dylib, 2): image not found",646
+How do you install a file to site-packages (not package sub-folder) from setuptools?,643
+Scapy on PlanetLab,643
+Flask-SQLAlchemy integration tests can&#39;t find a way to rollback changes,641
+Embedding IPython-shell in C/C++-program,638
+How to insert non overlapping text in matplotlib?,638
+Python Multiprocessing RuntimeError on Windows,631
+Creating virtualenv with Anaconda python,625
+No readline support while using pdb.set_trace(),621
+Can&#39;t stop web server in Google App Engine Launcher,613
+"Worker starts, then shuts down. No errors",589
+How to disconnect from elasticsearch-py client/connection-pool,586
+Raising an exception while using numba,579
+"FastCGI, Lighttpd, and Flask",577
+Convert hOCR to HTML table,576
+ipython notebook arrange plots horizontally,571
+Active Shape Models: matching model points to target points,568
+pycharm remote debugging (pydevd) does not connect,557
+Migrations in mongoengine: InvalidId,538
+How to avoid AppConfig.ready() method running twice in Django,524
+How to handle python packages with conflicting names?,514
+Problems when showing Interpreter (IPython) after running Program in PyCharm,514
+Implementing sparse connections in neural network (Theano),514
+FloatingPointError from PyMC in sampling from a Dirichlet distribution,505
+Django batching/bulk update_or_create?,504
+Getting output from jupyter kernel in (i)python script,492
+Uploading a static project to google app engines,491
+How do I get PyCharm to update from my local package repository?,488
+"cx-freeze, runpy and multiprocessing - multiple paths to failure",480
+Gunicorn shared memory between multiprocessing processes and workers,474
+"Django, dynamic urlconfs, thread-safety",473
+Matplotlib: filled contour plot with transparent colors,471
+Embed Python3 without standard library,469
+Do case-insensitive ordering with django-filter,469
+SSL Context for older python version,458
+Error while packing keyring module with PY2APP on MAC OSX,455
+Adding the same Patch instance to multiple subplots in matplotlib,450
+Seaborn countplot with normalized y axis per group,441
+cx_Freeze. How install service and execute script after install,436
+"xml parsing with beautifulsoup4, namespaces issue",428
+Handling Redshift identity columns in SQLAlchemy,428
+make some modules from global site-packages available in virtualenv,425
+Issues in urls when running Django in subdirectory or say suburl,424
+most efficient way to parse this scripting language,424
+Recovering Celery From a Database Outage,424
+Get POST data from WebKitNetworkRequest,423
+How to make pylint a part of setup.py test process?,423
+Voronoi - Compute exact boundaries of every region,421
+Admin Settings API with oauth2 in gdata and python,419
+Confidence interval for LOWESS in Python,411
+Converting to Jython a Python 3.5 project - UnicodeDecodeError: &#39;unicodeescape&#39; codec can&#39;t decode bytes in position 4-10: illegal Unicode character,404
+Print each line of a script as it is run,391
+How can we check if our app is installed for some organizations but not all of them?,389
+pymysql cannot connect with SSL,387
+Opencv - Depth map from uncalibrated stereo system,381
+How to create an OUTPUT typemap for a class type?,376
+How to get arrow keys and enter key on key pad in Linux to behave like windows7,371
+Flask + RabbitMQ + SocketIO - forwarding messages,371
+How to write a Twisted client plugin,369
+How to compile simple python embeded program using distutils,366
+Sending OpenCV output to VLC stream,364
+Can I get the python call stack with the linux perf?,363
+Is there a way for CMake to utilize dependencies generated by `swig -MM`?,360
+Using OAuth2 with username and password,359
+Compile Python debug and pip install debug libraries,354
+resampling non-time-series data,352
+Exclude soft deleted items in self referential relationship SQLAlchemy,349
+Multiple right margins in Pycharm,343
+Matplotlib imshow with EPS,340
+Variation of the backpack ... in python,339
+generate jwt when signing in with allauth,338
+How to put text in input line: how to ask for user input on the command line while providing a &#39;default&#39; answer that the user can edit or delete?,338
+403 forbidden for AWS Beanstalk Flask static files without SSL,335
+Numpy passing input array as `out` argument to ufunc,332
+Celery chunks inside chain,329
+How to determine start time and end time (seconds since epoch) of video in python?,326
+PySpark dataframe.foreach() with HappyBase connection pool returns &#39;TypeError: can&#39;t pickle thread.lock objects&#39;,325
+django orm group by json key in json field,323
+Collapse multiple submodules to one Cython extension,321
+Packaging legacy FORTRAN in Python. Is it OK to use `setuptools` and `numpy.distutils`?,315
+How to get world coordinates from screen coordinates in Vispy,314
+Twisted XmlStream: How to connect to events?,311
+Python 2 &amp; 3 compatible namespace modules (using pip),305
+How to remove noise from a histogram equalized image?,304
+How to represent a custom PostgreSQL domain in SQLAlchemy?,303
+Archive old data in mongoengine,299
+Difference between positive and negative values in xticklabel by using Latex in matplotlib,295
+tf.SequenceExample with multidimensional arrays,293
+SocketIO emit from Asychronous Celery worker is not working,290
+Handling MongoEngine&#39;s DynamicEmbeddedDocument in Flask-Admin,289
+Memory allotment of for loop in python,288
+Alembic --autogenerate tries to recreate every table,287
+Where does the nose.collector look for tests?,281
+Is there builtin way to get a ToggleButton group&#39;s current selection?,280
+How to Generate Fixtures from Database with SqlAlchemy,278
+Managing connection creation in Python?,278
+ORA-01861: literal does not match format string when executing get model object in django,277
+php xdebug in netbeans - how to see values of variable?,277
+gevent profiler for long running code,272
+Scrape the HTML from a webpage after rendering the JSON/Javascript without Selenium while supporting POSTing,271
+Define relationship without foreign key,269
+How to convert requests.cookiejar to qnetworkcookiejar?,269
+Open quantum system modelling,268
+PyCharm: How to tell if previously sent selection has completed execution at console?,268
+How get image icon desktop,266
+python WatchedFileHandler still writing to old file after rotation,262
+Why wont this function work?,247
+ANTLR4 Python parsing big files,246
+User defined generic types and collections.abc,245
+Weird bitness issues using Python popen,242
+Gaussian-Process (scikit-learn) Prediction Confidence Interval Oddities,240
+Scheduled pause in Gnonlin,239
+3d sliding window operation in Theano?,238
+Endpoints API - protorpc validation error,234
+How to source annotate python when using qcachegrind to process profilestats output,233
+How could i display search result based on filtered value provided by user?,227
+Django haystack whoosh super slow,226
+How to pass Django template variables to a WebPack module,226
+Estimating the probability density of sum of uniform random variables in python,224
+PDFkit with wkhtmltopdf recognizes line breaks on mac but not on ubuntu,224
+Non-ASCII symbols in translation of GTK-GUI in Windows not working?,224
+Reduce memory fragmentation with MALLOC_MMAP_THRESHOLD_ and MALLOC_MMAP_MAX_,221
+Why is Garbage Collection so Slow?,217
+Get PyCharm to know what classes are mixin for,216
+User authentication using django-oauth-toolkit,213
+Python requests send certificate as string,212
+Forbidden (403) error when processing Stripe payments on home server,211
+Automatically mounting host folders other than c:\Users in Docker images in Windows,208
+boto3 equivalent of boto.config,208
+Python- matplotlib live graphing without Graph movement (scrolling),206
+How to profile a Jinja2 template?,206
+pymongo collection object serializing __getnewargs__ method,205
+"Speeding up matrix-vector multiplication and exponentiation in Python, possibly by calling C/C++",199
+Python: concurrent.futures: cancel not possible,195
+Enable the query cache in postgreSQL to improve performance,190
+Circular imports hell,189
+Why doesn&#39;t Spyder obey my IPython config file?,189
+How to use the link grammar parser as a grammar checker,188
+"Using mechanize to upload files to Sharepoint is failing, I can&#39;t figure out why",187
+How to draw a proper grid on PyQt?,186
+Pytest plugin: Overriding pytest_runtest_call and friends,185
+How to augment matrix factors in Spark ALS recommender?,184
+"GAE Memory Leaks when writing to Cloud Storage, can I stream instead?",182
+Pandas Design Considerations for MultiIndexed Dataframes,181
+Day delta for dates &gt;292 years apart,181
+How to embed external window in GUI (Python + Glade + Gtk3),177
+python itertools permutations with tied values,177
+How to implement Weighted Binary CrossEntropy on theano?,176
+GAE NDB Datastore new feature: Access Datastore entities from other GAE app,174
+Django form integrityerror for concurrent operation on unique fields,173
+how to generate function signature with sphinx?,173
+How to configure buildout to create sphinx documentation using bin/sphinxbuilder,170
+Python: List algebraic simplification,167
+Interactive Ipython Notebooks on Heroku,167
+Meaning of absolute/relative paths in python stack trace,167
+Google API return invalid_grant in production but not in local,165
+Are all post-install options for python setuptools broken?,165
+Find element by ios_ui not working,163
+pympler raises TypeError,162
+Bind to pgcrypto from python,158
+Setuptools never found on AWS Lambda,157
+How to set ttk calendar programmatically,154
+Execute multiple independent statements in SQLAlchemy Core?,149
+How to segment blood vessels python opencv,148
+Python ElementTree: ElementTree vs root Element,145
+Caching a downloaded file based on modified time using dogpile,145
+Test whether DB migration result are consistent with (ORM)? models,144
+matplotib contours labels in 3D,144
+pymc warning: value is neither numerical nor array with floating-point dtype,143
+pycharm / intellij - jupyter markdown not rendering,143
+How to execute a function several times asynchronously and get first result,141
+Python scraping of javascript web pages fails for https pages only,139
+"Information on managing large, multi-faceted enterprise Python codebases?",139
+Pip freeze for packages installed with --target,137
+Mail request body as well to Django Admin while server error,135
+Get numpy to warn on integer overflow,135
+Alternative dependencies (fall back) in setup.py,134
+ipdb with python unittest module,133
+Executable made with pyInstaller/UPX experiences QtCore4.dll error,132
+Python socket closed before all data have been consumed by remote,132
+NumPy: Why the need to explicitly copy a value?,131
+Python MySQL CSV export to json strange encoding,129
+Pythonic way to filter data with overlapping dates,128
+"How does one implement wildcards, character classes, negated character classes, etc. in a model for a regular grammar?",127
+File not uploading with Flask-wtforms in cookiecutter-flask app,125
+Why is the main thread of my multithreaded application unresponsive to Ctrl+C?,124
+python&#39;s base metaclass: a pure-python analogue?,121
+IPython doesn&#39;t reload code when running in the QTConsole,121
+Django: changing image size and upload to S3,120
+Create inheritance graphs/trees for Django templates,120
+"Writing clean, flexible, and easy to maintain user input prompts",120
+How to parse only a specific category of a website using the newspaper library?,115
+Apache2 and context path for virtual host with Django and AngularJS,113
+&quot;Protocols cannot be used with isinstance()&quot; - why not?,112
+Pyramid + transactionmanager: rm.abort() TPC is progress,112
+How to load a matrix to change the attention layer in seqToseq demo? - Paddle,112
+python program that blocks takes 6% of CPU?,112
+How to calculate distance between 2D matrices,111
+Create gantt chart with hlines?,108
+selecting correct form while iterating all forms,107
+Deploying Python and Dependencies to Elastic Beanstalk,107
+Why do I get this NameError in a generator within a Python class definition?,106
+How do I determine whether a container is infinitely recursive and find its smallest unique container?,105
+How to compress hdf5 file when resizing?,104
+Create a formal linear function in Sympy,104
+Initial and final check when running pytest test suite,101
+Generate Fortran subroutine with SymPy codegen for a system of equations,99
+HTML not rendering properly with Canopy 1.7.1.3323 / IPython 4.1.2,98
+Why is there different behaviour from getpwuid and getgrgid?,95
+PyQt4 force view to fetchMore from QAbstractItemModel,94
+Python: A list that doesn&#39;t get relocated,93
+OSError: raw readinto() returned invalid length when use websockets,92
+Numpy setup error : extra formal argument,90
+"&lt;urlopen error (-1, &#39;SSL exception: Differences between the SSL socket behaviour of cpython vs. jython are explained on the wiki",87
+Is there a way to use doctest and sphinx to test and document command line applications?,83
+How to find ASN.1 components of EC key python-cryptography,82
+Where does tox search for PyPy / PyPy3 on Windows?,81
+"Raising exception in a generator, handle it elsewhere and vice versa in python",80
+Image assets won&#39;t load when using pytest,80
+How to distribute files in a Python sdist that are not VCS tracked?,79
+How to show steps in sympy?,76
+Method replacement at runtime not updating Private attributes,75
+AWS EMR import external library from S3,70
+typing module - String Literal Type,69
+Pyramid Traversal __name__ matching a view name,69
+Working with statistical expressions in SymPy without specifying distribution,61
+Most reliable way to automatically choose line styles in matplotlib in combination with seaborn,60
+Updating an old system to Q-learning with Neural Networks,60
+How to determine the number of interned strings in Python 2.7.5?,58
+Python Save a (Sparse) Matrix with a variable inside,56
+Unpredictable pandas slice assignment behavior with no SettingWithCopyWarning,47
+Is it possible to prioritise a lock?,43
+Django: ContentTypes during migration while running tests,28
